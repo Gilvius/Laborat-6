@@ -15,7 +15,7 @@ int func_3(int, double);
 
 int func_1(int A, double z)
 {
-	int a;
+	int b;
 	if (sqrt(2 * z) >= 0)
 	{
 		a = cos(2 * ((A - 90)*pi / 180)) + pow(cos((3 * z) / 4), 2) - sqrt(2 * z);
